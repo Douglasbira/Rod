@@ -1,0 +1,11 @@
+<resources>
+
+
+    <string name="app_name">Rod</string>
+
+
+    <!-- List Music Activity -->
+    <string name="title_toolbar_ListMusic"> Rod - Meu Repertório</string>
+
+
+</resources>
